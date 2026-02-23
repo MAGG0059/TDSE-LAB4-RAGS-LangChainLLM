@@ -32,6 +32,11 @@ API Key Setup (IMPORTANT)
 GOOGLE_API_KEY=your-actual-api-key-here
 Get your free API key from: https://aistudio.google.com
 
+### Components
+Model	ChatGoogleGenerativeAI - Modelo de lenguaje Gemini de Google
+Prompt Template	ChatPromptTemplate - Plantilla con roles system/human
+Output Parser	StrOutputParser - Extrae texto de la respuesta del modelo
+LCEL	prompt | model | parser - LangChain Expression Language para componer la chain
 
 ### Arquitecture LangChainLLLM
 
