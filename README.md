@@ -7,9 +7,6 @@ I built a conversational AI agent using LangChain and Google Gemini that provide
 ## In this repository are the notebooks:
 Basic-LangChainLLM.ipynb
 
-## Project Overview
-This repository contains one Jupyter Notebooks that demonstrate:
-    where we show the  logistic regression diferrent uses
 
 
 ## Setup Instructions
